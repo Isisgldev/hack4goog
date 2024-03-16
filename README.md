@@ -10,16 +10,12 @@ Para las personas con visibilidad reducida, la percepción del entorno puede res
 
 ###El Equipo
 
-###Bibliografía
-#####:woman_technologist: Ange Xu
-:woman_technologist: Rongrong Zhang
-:woman_technologist: Satvika Santhoshi Marakala
-:man_technologist: Sneyder Murillo Maza
-:woman_artist: Carolina Papes
-:woman_scientist: Isis Gómez López
 
-- [🧑‍💻 Sneyder Murillo Maza](https://github.com/MiquelDebon)
 - [👩‍🔬 Isis Gómez](https://github.com/Isisgldev)
-- [👷‍♀️ Ange Xu](https://github.com/xangeee))
+- [👩‍💻 Ange Xu](https://github.com/xangeee)
+- [👩‍💻 Satvika Santhoshi Marakala](https://github.com/)
+- [👩‍💻 Rongrong Zhang](https://github.com/rzhan6)
+- [👩‍🎨 Carolina Papes](https://github.com/)
+- [🧑‍💻 Sneyder Murillo Maza](https://github.com/)
 
-
+###Bibliografía
