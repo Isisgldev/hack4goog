@@ -1,6 +1,7 @@
 # :eyeglasses: VERVE EYES
 ***
 ##SLOGAN
+y video
 ***
 
 Para las personas con visibilidad reducida, la percepción del entorno puede resultar limitada y, a menudo, peligrosa. Identificar obstáculos y riesgos potenciales se convierte en una tarea desafiante, especialmente cuando la distancia entre el objeto y la persona es mínima, lo que impide una reacción oportuna, sobre todo ante objetos móviles. Habitualmente, la única ayuda disponible para reconocer el entorno es el alcance limitado de un bastón, lo que incrementa la vulnerabilidad y reduce la autonomía. En este contexto, nuestra herramienta tiene como objetivo complementar la información del entorno, no solo detectando objetos cercanos, sino también proporcionando alertas de peligro para mejorar la seguridad de la persona, especialmente en entornos desconocidos.
@@ -17,6 +18,11 @@ Por otro lado, las pruebas realizadas con equipos voluminosos han demostrado red
 
 Finalmente, la elección del soporte adecuado, que puede ser realizado mediante impresoras 3D, permite una reducción de costes y posibles soluciones sostenibles, ya que pueden realizarse con materiales reciclados como botellas de plástico.
 
+### Stack Tecnológico
+
+Programming Language: python
+Main libraries: TensorFlow, Matplotlib, Numpy, FastAPI, cv2  
+Machine Learning Model: Faster R-Convolutional Neural Network
 
 ### El Equipo
 
@@ -30,7 +36,9 @@ Finalmente, la elección del soporte adecuado, que puede ser realizado mediante 
 
 ### Bibliografía
 
-(2022) Manuel Zahn and Armaghan Ahmad Khan. Obstacle avoidance for blind people using a 3D camera and a haptic
++ (2022) Manuel Zahn and Armaghan Ahmad Khan. Obstacle avoidance for blind people using a 3D camera and a haptic
 feedback sleeve*. [Paper](https://arxiv.org/pdf/2201.04453.pdf)
 
-[Estas gafas para invidentes detectan obstáculos mediante vibraciones](https://www.futura-sciences.com/tech/actualites/electronique-ces-lunettes-non-voyants-detectent-obstacles-vibrations-96372/)
++ [Estas gafas para invidentes detectan obstáculos mediante vibraciones](https://www.futura-sciences.com/tech/actualites/electronique-ces-lunettes-non-voyants-detectent-obstacles-vibrations-96372/)
+
++ [See What I See: Virtual Reality Eye Disease Experience](https://www.nei.nih.gov/learn-about-eye-health/outreach-resources/see-what-i-see-virtual-reality-eye-disease-experience)
