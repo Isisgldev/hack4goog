@@ -1,7 +1,7 @@
 # :eyeglasses: VERVE EYES
 ***
-##SLOGAN
-(https://drive.google.com/file/d/1a39hZudrK8EvlzW4Pu9NJhpzEpBs9Wf1/view?usp=drive_link))
+## "Filling the world with color with every glance"
+[](https://youtu.be/baj_KP_WWes)
 ***
  
 Para las personas con visibilidad reducida, la percepción del entorno puede resultar limitada y, a menudo, peligrosa. Identificar obstáculos y riesgos potenciales se convierte en una tarea desafiante, especialmente cuando la distancia entre el objeto y la persona es mínima, lo que impide una reacción oportuna, sobre todo ante objetos móviles. Habitualmente, la única ayuda disponible para reconocer el entorno es el alcance limitado de un bastón, lo que incrementa la vulnerabilidad y reduce la autonomía. En este contexto, nuestra herramienta tiene como objetivo complementar la información del entorno, no solo detectando objetos cercanos, sino también proporcionando alertas de peligro para mejorar la seguridad de la persona, especialmente en entornos desconocidos.
