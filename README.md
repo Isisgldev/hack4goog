@@ -11,7 +11,7 @@ Para las personas con visibilidad reducida, la percepción del entorno puede res
 ###El Equipo
 
 ###Bibliografía
-:woman_technologist: Ange Xu
+#####:woman_technologist: Ange Xu
 :woman_technologist: Rongrong Zhang
 :woman_technologist: Satvika Santhoshi Marakala
 :man_technologist: Sneyder Murillo Maza
